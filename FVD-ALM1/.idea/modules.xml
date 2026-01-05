@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../expcode/FVD-ALM1/.idea/Boosting Weakly-Supervised Temporal Action Localization with Text Information.iml" filepath="$PROJECT_DIR$/../expcode/FVD-ALM1/.idea/Boosting Weakly-Supervised Temporal Action Localization with Text Information.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PVLR-main/.idea/PVLR-main.iml" filepath="$PROJECT_DIR$/../PVLR-main/.idea/PVLR-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SXVLC.iml" filepath="$PROJECT_DIR$/.idea/SXVLC.iml" />
+    </modules>
+  </component>
+</project>
